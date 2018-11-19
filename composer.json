@@ -11,8 +11,9 @@
   "homepage": "https://www.aliyun.com/product/vms",
   "authors": [
     {
-      "name": "Aliyuncs",
-      "homepage": "https://www.aliyun.com"
+      "name": "Alibaba",
+      "email": "developer@aliyun.com",
+      "homepage": "https://www.aliyun.com/"
     }
   ],
   "require": {
